@@ -16,7 +16,6 @@
 - 🎓 &nbsp; Universitas Malikussaleh / Teknik Informatika
 - 💼 &nbsp; Research Data Analyst & Web Development / Freelance
 - 🌱 &nbsp; Currently learning **Machine Learning**, **NLP**, and **Web Development**
-- 🔬 &nbsp; Working on **BERT-based Fake News Detection** for my thesis
 - 💬 &nbsp; Ask me about **Python**, **Flask**, **Laravel**, or **Data Science**
 - ⚡ &nbsp; Fun fact: Sunday is the Day After Saturday
 
