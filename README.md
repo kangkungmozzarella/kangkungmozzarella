@@ -1,5 +1,4 @@
 # Hi there, I'm Andrea Micola Azwir 👋
-
 <p align="left">
   <a href="https://www.instagram.com/andreamicolaazwir/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -12,7 +11,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 - 🎓 &nbsp; Universitas Malikussaleh / Teknik Informatika
 - 💼 &nbsp; Research Data Analyst & Web Development / Freelance
 - 🌱 &nbsp; Currently learning **Machine Learning**, **NLP**, and **Web Development**
@@ -54,12 +52,12 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kangkungmozzarella&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=kangkungmozzarella&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkungmozzarella&layout=compact&theme=default&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkungmozzarella&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800"
     height="165"
     alt="Top Languages"
   />
@@ -67,7 +65,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kangkungmozzarella&theme=default&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=kangkungmozzarella&theme=default&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
