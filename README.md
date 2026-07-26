@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner-header.svg" alt="Header banner" /><br/>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/kangkungmozzarella/kangkungmozzarella@main/assets/banner-header.svg" alt="Header banner" /><br/>
 
 <a href="https://www.instagram.com/andreamicolaazwir/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -82,6 +82,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=kangkungmozzarella&style=for-the-badge&color=6c63ff&label=Profile+Views" alt="Profile views"/><br/><br/>
 
-<img width="100%" src="./assets/banner-footer.svg" alt="Footer banner" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/kangkungmozzarella/kangkungmozzarella@main/assets/banner-footer.svg" alt="Footer banner" />
 
 </div>
