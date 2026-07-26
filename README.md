@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there,%20I'm%20Andrea%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Exploring%20AI%20%26%20Data%20Science&descAlignY=58&descSize=18&descColor=b8b8ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there%2C%20I%27m%20Andrea%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Exploring%20AI%20%26%20Data%20Science&descAlignY=58&descSize=18&descColor=b8b8ff" />
 
 <a href="https://www.instagram.com/andreamicolaazwir/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -34,11 +34,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,nextjs,flask,laravel,pytorch,huggingface,pandas,sklearn&theme=dark" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,nextjs,flask,laravel,pytorch,sklearn&theme=dark" alt="Languages & Frameworks" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql&theme=dark" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Tools & Platforms" />
+
+<br/><br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -48,16 +54,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kangkungmozzarella&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangkungmozzarella&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=kangkungmozzarella&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kangkungmozzarella&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+![Followers](https://img.shields.io/github/followers/kangkungmozzarella?style=for-the-badge&logo=github&color=6c63ff&labelColor=0f0c29)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=6c63ff&labelColor=0f0c29&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkangkungmozzarella)
 
 </div>
 
