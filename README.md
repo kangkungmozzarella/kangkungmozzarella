@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there%2C%20I%27m%20Andrea%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Exploring%20AI%20%26%20Data%20Science&descAlignY=58&descSize=18&descColor=b8b8ff" />
+<img width="100%" src="./assets/banner-header.svg" alt="Header banner" /><br/>
 
 <a href="https://www.instagram.com/andreamicolaazwir/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Exploring+Machine+Learning+%26+NLP+%F0%9F%A4%96;Code+%E2%80%A2+Create+%E2%80%A2+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Exploring+Machine+Learning+%26+NLP+%F0%9F%A4%96;Code+%E2%80%A2+Create+%E2%80%A2+Repeat+%F0%9F%9A%80" alt="Typing SVG" /><br/>
 
 </div>
 
@@ -80,8 +80,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kangkungmozzarella&style=for-the-badge&color=6c63ff&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=kangkungmozzarella&style=for-the-badge&color=6c63ff&label=Profile+Views" alt="Profile views"/><br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img width="100%" src="./assets/banner-footer.svg" alt="Footer banner" />
 
 </div>
