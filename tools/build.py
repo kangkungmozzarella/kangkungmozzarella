@@ -41,7 +41,8 @@ def font_file(family):
 
 class Face:
     def __init__(self, name, family, axes):
-        font = instancer.instantiateVariableFont(TTFont(font_file(family)), axes)
+        # A fixed timestamp keeps unchanged fonts byte for byte the same between builds.
+        font = instancer.instantiateVariableFont(TTFont(font_file(family), recalcTimestamp=False), axes)
         options = subset.Options()
         options.flavor = "woff2"
         options.layout_features = ["kern", "liga"]
@@ -246,7 +247,7 @@ def header(variant):
     first, *rest = name.split(" ")
     badge = [
         f'<rect x="157" y="-400" width="26" height="{by + 400 - 6}" fill="{PINK}" stroke="{INK}" stroke-width="3"/>',
-        card(bx, by, bw, bh, WHITE, shadow, radius=16, offset=9),
+        card(bx, by, bw, bh, WHITE, INK, radius=16, offset=0),
         f'<rect x="150" y="{by - 18}" width="40" height="30" rx="8" fill="{BLUE}" stroke="{INK}" stroke-width="3"/>',
         f'<rect x="147" y="{by + 18}" width="46" height="9" rx="4.5" fill="{PAPER}" stroke="{INK}" stroke-width="2.5"/>',
         f'<clipPath id="photo"><rect x="{bx + 12}" y="{by + 36}" width="136" height="136" rx="11"/></clipPath>',
